@@ -197,7 +197,7 @@ Try to let the user sign in with a Phone Number
 
 ### Send Reset Password Email
 
-Get the id token from the current user.
+Send the reset password email.
 
 <div class="block" ai2-block="method" not-rendered="true" value="%7B%22componentName%22:%20%22Firebase%20Authentication%22,%20%22name%22:%20%22Send%20Reset%20Password%20Email%22,%20%22output%22:%20false,%20%22param%22:%20%5B%22email%22%5D%7D"></div>
 
